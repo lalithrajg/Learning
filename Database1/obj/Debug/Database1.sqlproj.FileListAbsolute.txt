@@ -1,0 +1,9 @@
+C:\SSIS\Database1\Database1\bin\Debug\Database1.dacpac
+C:\SSIS\Database1\Database1\bin\Debug\Database1.dll
+C:\SSIS\Database1\Database1\bin\Debug\Database1.pdb
+C:\SSIS\Database1\Database1\obj\Debug\Model.xml
+C:\SSIS\Database1\Database1\obj\Debug\refactor.xml
+C:\SSIS\Database1\Database1\obj\Debug\postdeploy.sql
+C:\SSIS\Database1\Database1\obj\Debug\predeploy.sql
+C:\SSIS\Database1\Database1\obj\Debug\Database1.dll
+C:\SSIS\Database1\Database1\obj\Debug\Database1.pdb
